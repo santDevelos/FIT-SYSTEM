@@ -202,9 +202,6 @@ docker run --rm -p 96:96 \
 ```
 
 ## Recursos
-
-- Prototipo en Figma: <https://www.figma.com/design/5frjIYrVXWQgQzg436DiJO/Desarrollo-web>
-- Video de la propuesta: <https://youtu.be/JPHgVUjIohM>
 - Aplicación desplegada: <https://gym-web-mlet.onrender.com>
 
 El paquete final de entrega incluye además estos archivos:
