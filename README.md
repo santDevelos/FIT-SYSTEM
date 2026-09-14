@@ -5,8 +5,6 @@ pagos, rutinas de entrenamiento y asistencias de un gimnasio. Utiliza un único
 dashboard cuyo contenido cambia según el rol autenticado: administrador, entrenador
 o cliente. La interfaz está disponible en español, inglés y francés.
 
-Proyecto final del curso SC-403 Desarrollo de Aplicaciones Web y Patrones,
-Universidad Fidélitas, sede San Pedro.
 
 ## Integrantes
 
