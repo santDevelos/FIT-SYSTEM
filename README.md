@@ -5,14 +5,6 @@ pagos, rutinas de entrenamiento y asistencias de un gimnasio. Utiliza un único
 dashboard cuyo contenido cambia según el rol autenticado: administrador, entrenador
 o cliente. La interfaz está disponible en español, inglés y francés.
 
-
-## Integrantes
-
-- Berrocal Siles Santiago Caleb
-- Bourrouet Obregón Neytan Andry
-- Fung Ramírez Sebastián
-- Solís Méndez Gabriel Gerardo
-
 ## Tecnologías
 
 - Java 25
